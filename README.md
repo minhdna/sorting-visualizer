@@ -1,2 +1,3 @@
 # sorting-visualizer
-A Visualizer for basic sorting algorithms
+A Visualizer for basic sorting algorithms.
+React
